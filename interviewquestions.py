@@ -103,16 +103,6 @@ def find_fibonacci_number(n):
 
 
 
-
-
-
-
-
-
-
-
-
-
 # Testing
 numbers = [1, 2, 3, 2, 5, 3, 3, 5, 6, 3, 4, 5, 7]
 print(find_first_duplicate_int_in_list(numbers))
