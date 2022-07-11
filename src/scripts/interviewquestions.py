@@ -100,18 +100,3 @@ def find_fibonacci_number(n):
 
 
 
-
-
-
-# Testing
-numbers = [1, 2, 3, 2, 5, 3, 3, 5, 6, 3, 4, 5, 7]
-print(find_first_duplicate_int_in_list(numbers))
-print(find_all_duplicates_int_in_list(numbers))
-print(check_if_list_contains_int(numbers, 3))
-print(check_if_two_strings_are_anagrams("abc", "cba"))
-print(remove_duplicates_from_list(numbers))
-print(find_all_pairs_that_sum_to_x(numbers, 6))
-print(find_unique_pairs_that_sum_to_x(numbers, 6))
-print(is_palindrome("racecar"))
-
-
