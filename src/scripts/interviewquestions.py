@@ -26,7 +26,6 @@ def check_if_two_strings_are_anagrams(string_one, string_two):
     return False
 
 
-
 def remove_duplicates_from_list(input_list):
     return list(set(input_list))
 
@@ -77,7 +76,6 @@ def reverse_string(string):
     return string[::-1]
 
 
-
 def reverse_string_recursive(string):
     if len(string) == 1:
         return string
@@ -97,6 +95,3 @@ def find_fibonacci_number(n):
     if n == 1:
         return 1
     return find_fibonacci_number(n-1) + find_fibonacci_number(n-2)
-
-
-
