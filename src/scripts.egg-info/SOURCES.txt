@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/scripts/__init__.py
+src/scripts/hashingstuffs.py
+src/scripts/interviewquestions.py
+src/scripts/permutations.py
+src/scripts.egg-info/PKG-INFO
+src/scripts.egg-info/SOURCES.txt
+src/scripts.egg-info/dependency_links.txt
+src/scripts.egg-info/not-zip-safe
+src/scripts.egg-info/requires.txt
+src/scripts.egg-info/top_level.txt
